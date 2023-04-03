@@ -19,22 +19,23 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "NFSv4 advice on multipath IO queueing"
+abbrev: "NFS MPIOQ"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-scheffenegger-nfsv4-mpioq-latest
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: TSV
+workgroup: NFSv4
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - nconnect
+ - pnfs
+ - multipath
+ - leaf-spine
 venue:
   group: WG
   type: Working Group
@@ -45,9 +46,10 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    ins: R. Scheffenegger
+    fullname: Richard Scheffenegger
+    organization: NetApp, Inc.
+    email: srichard@netapp.com
 
 normative:
 
