@@ -13,11 +13,10 @@
 /.vscode/
 /*-[0-9][0-9].xml
 /lib
-/lib/
 /node_modules/
 /versioned/
 archive.json
-draft-scheffenegger-congress-rfc5033bis.xml
+draft-scheffenegger-nfsv4-mpioq.xml
 Gemfile.lock
 package-lock.json
 report.xml
